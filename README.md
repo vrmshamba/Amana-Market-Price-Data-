@@ -1,4 +1,4 @@
-# 🌍 Amana Market AI — Agricultural Price Analysis & AI Insights
+# 🌍 Swahili Market — Agricultural Price Analysis & AI Insights
 
 This project is designed to help analyze agricultural market price data from local markets across Kenya and Nigeria. Using data science tools and the Gemini API, we clean, visualize, and model the data to surface valuable insights — including detecting trends, predicting prices, and flagging anomalies.
 
